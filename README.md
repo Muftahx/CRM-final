@@ -25,8 +25,9 @@ Make sure the following files and folders are in the same root directory:
 
 Run this command in the terminal inside the project folder:
 
-```bash
 npm install
+
+npm install express-validator
 
 node server.js
 
@@ -35,3 +36,5 @@ node server.js
 The API will run at:
 
 http://localhost:3000
+
+.../api/customer/'id'
