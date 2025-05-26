@@ -37,4 +37,4 @@ The API will run at:
 
 http://localhost:3000
 
-.../api/customer/'id'
+.../api/customers/'id'
